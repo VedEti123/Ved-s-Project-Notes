@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "3f8f209528d73208",
+    "type": "split",
+    "children": [
+      {
+        "id": "c39aa21eda1bbc18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a42b17bc15205e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/MetaGlasses/Pivot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pivot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d3e0bf3edee365b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd9086b63f88a0a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a83a16da245ad6f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5abeff81c209b44e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "73c1947711203c9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.41796875
+  },
+  "right": {
+    "id": "660733a90cd078f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3042d3e59bde80eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a52bd1a0acb651",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/MetaGlasses/Reference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ed384249c4a20e68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/MetaGlasses/Reference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9b6d3869ba53623b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "da883c13d632fed3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6e29b6c888c01d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/MetaGlasses/Reference.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a42b17bc15205e2c",
+  "lastOpenFiles": [
+    "Inbox/Metaglasses Meeting Notes.md",
+    "Projects/MetaGlasses/Todo.md",
+    "Projects/MetaGlasses/Pivot.md",
+    "Projects/MetaGlasses/Reference.md",
+    "Projects/MetaGlasses/Repository.md",
+    "Projects/MetaGlasses/Overview.md",
+    "Projects/MetaGlasses/Glance.md",
+    "Projects/MetaGlasses/Meetings.md",
+    "Projects/MetaGlasses/DispChat.md",
+    "Projects/AutoTrader/Reference.md",
+    "Projects/AutoTrader/Todo.md",
+    "Projects/AutoTrader/Overview.md",
+    "Projects/AutoTrader/Meetings.md",
+    "Projects/AutoTrader/References/TradingAgents.md",
+    "Home.md",
+    "Templates/Meeting Log Entry.md",
+    "Templates/Project Overview.md",
+    "Inbox",
+    "Welcome.md",
+    "Templates",
+    "Projects/AutoTrader/References",
+    "Projects/MetaGlasses",
+    "Projects/AutoTrader",
+    "Projects"
+  ]
+}
